@@ -3,7 +3,7 @@
 
 # > Netflix
 HOST,netflix.com.edgesuite.net,奈飞服务
-OST-SUFFIX,netflix.com,奈飞服务
+HOST-SUFFIX,netflix.com,奈飞服务
 HOST-SUFFIX,netflix.net,奈飞服务
 HOST-SUFFIX,netflixdnstest0.com,奈飞服务
 HOST-SUFFIX,netflixdnstest1.com,奈飞服务
