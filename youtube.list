@@ -11,6 +11,7 @@ HOST-SUFFIX,gvt2.com,油管服务
 HOST-SUFFIX,youtu.be,油管服务
 HOST,youtubei.googleapis.com,油管服务
 HOST-SUFFIX,ytimg.com,油管服务
+HOST-SUFFIX,youtu.be,油管服务
 
 #> YouTubeMusic
 HOST,music.youtube.com,油管服务
