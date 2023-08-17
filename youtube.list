@@ -1,0 +1,20 @@
+#油管服务
+
+
+# > YouTube 
+USER-AGENT,*youtube*,油管服务
+USER-AGENT,YouTube*,油管服务
+HOST-KEYWORD,youtube,油管服务
+HOST,yt3.ggpht.com,油管服务
+HOST-SUFFIX,googlevideo.com,油管服务
+HOST-SUFFIX,gvt2.com,油管服务
+HOST-SUFFIX,youtu.be,油管服务
+HOST,youtubei.googleapis.com,油管服务
+HOST-SUFFIX,ytimg.com,油管服务
+
+#> YouTubeMusic
+HOST,music.youtube.com,油管服务
+USER-AGENT,*YouTubeMusic*,油管服务
+USER-AGENT,*com.google.ios.youtubemusic*,油管服务
+USER-AGENT,YouTubeMusic*,油管服务
+USER-AGENT,com.google.ios.youtubemusic*,油管服务
