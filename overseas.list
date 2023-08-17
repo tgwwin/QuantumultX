@@ -145,23 +145,6 @@ USER-AGENT,*Spotify*,海外服务
 USER-AGENT,Spotify*,海外服务
 IP-CIDR,35.186.224.47/32,海外服务
 
-# > YouTube 
-USER-AGENT,*youtube*,海外服务
-USER-AGENT,YouTube*,海外服务
-HOST-KEYWORD,youtube,海外服务
-HOST,yt3.ggpht.com,海外服务
-HOST-SUFFIX,googlevideo.com,海外服务
-HOST-SUFFIX,gvt2.com,海外服务
-HOST-SUFFIX,youtu.be,海外服务
-HOST,youtubei.googleapis.com,海外服务
-HOST-SUFFIX,ytimg.com,海外服务
-
-#> YouTubeMusic
-HOST,music.youtube.com,海外服务
-USER-AGENT,*YouTubeMusic*,海外服务
-USER-AGENT,*com.google.ios.youtubemusic*,海外服务
-USER-AGENT,YouTubeMusic*,海外服务
-USER-AGENT,com.google.ios.youtubemusic*,海外服务
 
 #Twitter
 HOST-SUFFIX,ads-twitter.com,海外服务
@@ -765,7 +748,6 @@ HOST-SUFFIX,ying.com,海外服务
 HOST-SUFFIX,yorkbbs.ca,海外服务
 HOST-SUFFIX,youmaker.com,海外服务
 HOST-SUFFIX,yourlisten.com,海外服务
-HOST-SUFFIX,youtu.be,海外服务
 HOST-SUFFIX,yoyo.org,海外服务
 HOST-SUFFIX,zacebook.com,海外服务
 HOST-SUFFIX,zalmos.com,海外服务
@@ -1831,7 +1813,6 @@ HOST,kktv-theater.kk.stream,海外服务
 HOST,linear.tv.apple.com,海外服务
 HOST,mytvsuperlimited.hb.omtrdc.net,海外服务
 HOST,mytvsuperlimited.sc.omtrdc.net,海外服务
-HOST,netflix.com.edgesuite.net,海外服务
 HOST,news-client.apple.com,海外服务
 HOST,news-edge.apple.com,海外服务
 HOST,news-events.apple.com,海外服务
@@ -1966,18 +1947,6 @@ HOST-SUFFIX,musical.ly,海外服务
 HOST-SUFFIX,my5.tv,海外服务
 HOST-SUFFIX,mytvsuper.com,海外服务
 HOST-SUFFIX,naver.com,海外服务
-HOST-SUFFIX,netflix.com,海外服务
-HOST-SUFFIX,netflix.net,海外服务
-HOST-SUFFIX,netflixdnstest0.com,海外服务
-HOST-SUFFIX,netflixdnstest1.com,海外服务
-HOST-SUFFIX,netflixdnstest2.com,海外服务
-HOST-SUFFIX,netflixdnstest3.com,海外服务
-HOST-SUFFIX,netflixdnstest4.com,海外服务
-HOST-SUFFIX,netflixdnstest5.com,海外服务
-HOST-SUFFIX,netflixdnstest6.com,海外服务
-HOST-SUFFIX,netflixdnstest7.com,海外服务
-HOST-SUFFIX,netflixdnstest8.com,海外服务
-HOST-SUFFIX,netflixdnstest9.com,海外服务
 HOST-SUFFIX,nflxext.com,海外服务
 HOST-SUFFIX,nflximg.com,海外服务
 HOST-SUFFIX,nflximg.net,海外服务
